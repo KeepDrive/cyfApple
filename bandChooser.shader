@@ -1,4 +1,4 @@
-// Unity built-in shader source. Copyright (c) 2016 Unity Technologies. MIT license (see license.txt)
+// Modified Unity built-in shader source. Original source: Copyright (c) 2016 Unity Technologies. MIT license (see unityShaderLicense.txt)
 
 Shader "CYF/bandChooser"
 {
